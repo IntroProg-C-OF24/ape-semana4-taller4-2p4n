@@ -1,8 +1,11 @@
 /*
-Generar un algoritmo que permite ingresar los gastos de tres hijos de un padre de familia; calcular y mostrar el total de gastos de los hijos del padre de familia.
+Generar un algoritmo que permite ingresar los gastos de tres hijos de un padre de familia; 
+calcular y mostrar el total de gastos de los hijos del padre de familia.
  */
 package ape_semana4_soluciones;
+
 import java.util.Scanner;
+
 public class GastoHijos {
 
     public static void main(String[] args) {
